@@ -1,0 +1,6 @@
+---
+# defaults file for firefox
+
+id: firefox
+version: 55.0.3
+mode: pull
